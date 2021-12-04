@@ -1,4 +1,4 @@
-module Day1 where
+module Day2 where
 
 import Prelude
 import Data.Foldable
