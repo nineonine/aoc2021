@@ -30,6 +30,7 @@ library aoc2021lib
                    , Day11
                    , Day12
                    , Day13
+                   , Day14
 
   build-depends:        base >=4.14 && <4.15
                       , split
