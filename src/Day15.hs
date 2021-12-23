@@ -1,6 +1,6 @@
 {-# LANGUAGE RecordWildCards #-}
 {-# LANGUAGE BangPatterns #-}
-module Main where
+module Day15 where
 
 import Data.Function (on)
 import Data.Char (digitToInt)
